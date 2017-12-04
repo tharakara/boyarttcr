@@ -130,7 +130,7 @@ kimid = kk.getProfile().mid
 ki2mid = ks.getProfile().mid
 Cmid = kc.getProfile().mid
 Emid = ka.getProfile().mid
-admin = ["u8e24585f8677458d62ce174ff6dacc83","uf291388a1ed2cb1a0864b84a7b6106a6"]
+admin = ["uaf5fee25d6ae8cc464c6531026ec40da","uf291388a1ed2cb1a0864b84a7b6106a6"]
 me = cl.getProfile().mid
 bot1 = cl.getProfile().mid
 main = cl.getProfile().mid
@@ -143,7 +143,7 @@ autocancel = {}
 autoinvite = []
 autoleaveroom = []
 
-admins = ["u8e24585f8677458d62ce174ff6dacc83","uf291388a1ed2cb1a0864b84a7b6106a6"]
+admins = ["uaf5fee25d6ae8cc464c6531026ec40da","uf291388a1ed2cb1a0864b84a7b6106a6"]
 Rx5 = ["u406133ad4d3fbe50a2f4d51ea081d050"]
 Rx4 = ["u406133ad4d3fbe50a2f4d51ea081d050"]
 Rx3 = ["u406133ad4d3fbe50a2f4d51ea081d050"]
